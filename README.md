@@ -1,4 +1,6 @@
-# Astro Starter Kit: Basics
+# CW2 Pressure Washing
+
+[![Deploy to GitHub Pages](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/deploy.yml/badge.svg)](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/deploy.yml)
 
 ```sh
 npm create astro@latest -- --template basics
@@ -44,4 +46,3 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
-# CW2-Pressure-Washing
