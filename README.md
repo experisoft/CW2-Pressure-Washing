@@ -1,6 +1,7 @@
 # CW2 Pressure Washing
 
 [![Deploy to GitHub Pages](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/deploy.yml/badge.svg)](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/deploy.yml)
+[![Spellcheck](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/spellcheck.yml/badge.svg)](https://github.com/experisoft/CW2-Pressure-Washing/actions/workflows/spellcheck.yml)
 
 ```sh
 npm create astro@latest -- --template basics
